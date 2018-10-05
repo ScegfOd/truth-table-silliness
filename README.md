@@ -1,4 +1,5 @@
 # truth-table-silliness
+(looks better in raw mode)
 
 possible inputs:
 a	b
